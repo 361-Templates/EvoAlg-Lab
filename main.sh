@@ -1,2 +1,2 @@
-g++ -std=c++17 main.cpp -o outfile
+g++ -std=c++20 -fexperimental-library main.cpp -o outfile
 ./outfile
